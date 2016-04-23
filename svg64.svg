@@ -122,6 +122,10 @@
         <path d="M25 41 L25 60 L8 60 L8 26 L32 6 L56 26 L56 60 L39 60 L39 41 L25 41 Z" />
     </symbol>
 
+    <symbol id="icon-user" viewBox="0 0 64 64">
+        <path d="M44 22 C43 32 39 40 32 40 25 40 21 32 20 22 19 12 24 6 32 6 40 6 45 12 44 22 Z M6 60 L58 60 C58 40 43 40 32 40 21 40 6 40 6 60 Z" />
+    </symbol>
+
     <symbol id="icon-trash" viewBox="0 0 64 64">
         <path d="M32 23 L32 48 M41 23 L41 48 M23 23 L23 48 M8 11 L56 11 M32 11 L32 4 M14 60 L50 60 L50 11 L14 11 L14 60 Z" />
     </symbol>
@@ -132,6 +136,15 @@
 
     <symbol id="icon-file" viewBox="0 0 64 64">
         <path d="M39 4 L11 4 11 60 53 60 53 18 39 4 Z M39 4 L39 18 53 18" />
+    </symbol>
+
+    <symbol id="icon-work" viewBox="0 0 64 64">
+        <path d="M60 17 L4 17 4 54 60 54 60 17 Z M40 17 C40 17 40 8 32 8 24 8 24 17 24 17 M17 54 L17 17 M47 54 L47 17" />
+    </symbol>
+
+    <symbol id="icon-work2" viewBox="0 0 64 64">
+        <path d="M58 34 L58 54 6 54 6 34" />
+        <path d="M4 17 L60 17 60 33 C60 33 46 39 32 39 18 39 4 33 4 33 L4 17 Z M32 43 L32 35 M40 17 C40 17 40 8 32 8 24 8 24 17 24 17 M58 34 L58 54 6 54 6 34" />
     </symbol>
 
     <symbol id="icon-twitter" viewBox="0 0 64 64">

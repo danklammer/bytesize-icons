@@ -49,7 +49,7 @@
 * [ ] Compose
 * [ ] Edit (Pencil)
 * [ ] Location
-* [ ] User
+* [x] User
 * [ ] Lightning Bolt
 * [ ] Fire
 * [ ] Alert
@@ -74,6 +74,7 @@
 * [ ] Zip File
 * [ ] Package/Box
 * [ ] Gift
+* [x] Work/Portfolio
 * [ ] Command Prompt
 * [ ] External Window
 * [ ] Social - Twitter

@@ -194,7 +194,7 @@
     </symbol>
 
     <symbol id="icon-import" viewBox="0 0 64 64">
-        <path d="M42 24 L53 24 53 60 11 60 11 24 22 24 M32 8 L32 43 M20 35 L32 44 44 35" />
+        <path d="M42 24 L53 24 53 60 11 60 11 24 22 24 M32 10 L32 45 M20 37 L32 46 44 37" />
     </symbol>
 
     <symbol id="icon-twitter" viewBox="0 0 64 64">

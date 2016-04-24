@@ -1,0 +1,5 @@
+<svg id="icon-eye" viewBox="0 0 64 64" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+    <circle cx="34" cy="30" r="3" />
+    <circle cx="32" cy="32" r="12" />
+    <path d="M4 32 C4 32 15 13 32 13 49 13 60 32 60 32 60 32 49 51 32 51 15 51 4 32 4 32 Z" />
+</svg>

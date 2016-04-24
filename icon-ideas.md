@@ -12,7 +12,7 @@
 * [x] Options/Settings
 * [x] Speech Bubble
 * [ ] Reply
-* [ ] Eye
+* [x] Eye
 * [x] Flag
 * [x] Ban
 * [x] Clock

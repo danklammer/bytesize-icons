@@ -57,7 +57,7 @@
 * [ ] Lock
 * [ ] Unlock
 * [ ] Tag
-* [ ] Bookmark
+* [x] Bookmark
 * [ ] Bold
 * [ ] Italic
 * [ ] Cursor
@@ -77,7 +77,7 @@
 * [x] Work/Portfolio
 * [ ] Command Prompt
 * [ ] External Window
-* [ ] Social - Twitter
+* [x] Social - Twitter
 * [ ] Social - Facebook
 * [ ] Social - Instagram
 * [ ] Social - Google

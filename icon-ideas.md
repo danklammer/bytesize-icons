@@ -5,9 +5,9 @@
 * [x] Star
 * [x] Heart
 * [x] Checkmark
-* [ ] Arrow (all directions)
-* [ ] Chevron (all directions)
-* [ ] Carret (all directions)
+* [x] Arrow (all directions)
+* [x] Chevron (all directions)
+* [x] Carret (all directions)
 * [x] Gear
 * [x] Options/Settings
 * [x] Speech Bubble

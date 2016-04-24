@@ -42,8 +42,8 @@
 * [ ] Bell/Alert
 * [ ] Upload
 * [ ] Download
-* [ ] Inport
-* [ ] Export
+* [x] Import
+* [x] Export
 * [ ] Horizontal Ellipsis
 * [ ] Verical Ellipsis
 * [ ] Compose

@@ -56,7 +56,7 @@
 * [ ] Info
 * [ ] Lock
 * [ ] Unlock
-* [ ] Tag
+* [x] Tag
 * [x] Bookmark
 * [ ] Bold
 * [ ] Italic

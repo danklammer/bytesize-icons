@@ -1,5 +1,5 @@
 <svg>
-
+    
     <symbol id="icon-search" viewBox="0 0 64 64">
         <path d="M45 45 L60 60" />
         <circle cx="28" cy="28" r="24" />
@@ -168,6 +168,14 @@
 
     <symbol id="icon-file" viewBox="0 0 64 64">
         <path d="M39 4 L11 4 11 60 53 60 53 18 39 4 Z M39 4 L39 18 53 18" />
+    </symbol>
+
+    <symbol id="icon-folder" viewBox="0 0 64 64">
+        <path d="M4 56 L60 56 60 14 27 14 20 8 4 8 4 56 Z M60 24 L4 24" />
+    </symbol>
+
+    <symbol id="icon-folder2" viewBox="0 0 64 64">
+        <path d="M9 58 L55 58 60 26 26 26 20 19 4 19 9 58 Z M56 26 L56 8 8 8 8 19" />
     </symbol>
 
     <symbol id="icon-work" viewBox="0 0 64 64">

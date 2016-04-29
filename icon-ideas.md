@@ -35,8 +35,8 @@
 * [x] Beginning
 * [x] End
 * [x] Eject
-* [ ] Volume
-* [ ] Mute
+* [x] Volume
+* [x] Mute
 * [ ] Link
 * [ ] Smile/Emoticon
 * [ ] Bell/Alert
@@ -50,7 +50,7 @@
 * [ ] Edit (Pencil)
 * [ ] Location
 * [x] User
-* [ ] Lightning Bolt
+* [x] Lightning Bolt
 * [ ] Fire
 * [ ] Alert
 * [ ] Info

@@ -48,7 +48,7 @@
 * [ ] Verical Ellipsis
 * [ ] Compose
 * [ ] Edit (Pencil)
-* [ ] Location
+* [x] Location
 * [x] User
 * [x] Lightning Bolt
 * [ ] Fire

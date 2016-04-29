@@ -18,7 +18,7 @@
 * [x] Clock
 * [x] Trash
 * [x] File
-* [ ] Folder
+* [x] Folder
 * [ ] Archive
 * [x] Home
 * [x] Mail

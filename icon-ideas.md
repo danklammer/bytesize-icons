@@ -1,3 +1,8 @@
+## Name Ideas
+- Nimble Set
+- Timber Set
+- Limber Set
+
 ## Icons Ideas
 
 * [x] Search

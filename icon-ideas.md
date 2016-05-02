@@ -16,7 +16,7 @@
 * [x] Gear
 * [x] Options/Settings
 * [x] Speech Bubble
-* [ ] Reply
+* [x] Reply
 * [x] Eye
 * [x] Flag
 * [x] Ban
@@ -24,11 +24,12 @@
 * [x] Trash
 * [x] File
 * [x] Folder
-* [ ] Archive
+* [x] Archive
+* [x] Inbox
 * [x] Home
 * [x] Mail
 * [x] Photo
-* [ ] Song/Music
+* [x] Song/Music
 * [x] Camera
 * [x] Video
 * [x] Attachement
@@ -42,46 +43,44 @@
 * [x] Eject
 * [x] Volume
 * [x] Mute
-* [ ] Link
-* [ ] Smile/Emoticon
-* [ ] Bell/Alert
-* [ ] Upload
-* [ ] Download
+* [x] Link
+* [x] Bell
+* [x] Upload
+* [x] Download
 * [x] Import
 * [x] Export
-* [ ] Horizontal Ellipsis
-* [ ] Verical Ellipsis
-* [ ] Compose
-* [ ] Edit (Pencil)
+* [x] Horizontal Ellipsis
+* [x] Verical Ellipsis
+* [x] Compose
+* [x] Edit (Pencil)
 * [x] Location
 * [x] User
 * [x] Lightning Bolt
-* [ ] Fire
-* [ ] Alert
-* [ ] Info
-* [ ] Lock
-* [ ] Unlock
+* [x] Activity
+* [x] Fire
+* [x] Alert (Bell)
+* [x] Info
+* [x] Lock
+* [x] Unlock
 * [x] Tag
 * [x] Bookmark
+* [x] Code Brackets
+* [ ] Headline
+* [ ] List
 * [ ] Bold
 * [ ] Italic
 * [ ] Cursor
 * [ ] Pointer
-* [ ] Code Brackets
-* [ ] Headline
-* [ ] List
-* [ ] Shopping Cart
-* [ ] Credit Card
-* [ ] Phone
-* [ ] Computer
+* [x] Shopping Cart
+* [x] Credit Card
 * [ ] Markdown
 * [ ] Pushpin
 * [ ] Zip File
 * [ ] Package/Box
-* [ ] Gift
+* [x] Gift
 * [x] Work/Portfolio
 * [ ] Command Prompt
-* [ ] External Window
+* [x] External Window
 * [x] Social - Twitter
 * [ ] Social - Facebook
 * [ ] Social - Instagram

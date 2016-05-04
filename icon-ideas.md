@@ -10,6 +10,12 @@
 - Weightless
 - Envlope
 - Threshold
+- Bare
+- Inflexicons
+- Flexicons
+- Calcicons
+- Coordicons
+- Adjusticons
 
 ## Icons Ideas
 

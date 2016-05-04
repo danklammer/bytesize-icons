@@ -7,6 +7,8 @@
 
         body {
             color: #3f414e;
+            font-family: Menlo, Consolas, Monaco, monospace;
+            text-align: center;
         }
 
         svg {
@@ -31,17 +33,32 @@
         .i-small div { font-size: 1.5em; margin: 0 }
         .i-tiny div { font-size: 1em; margin: 0 }
 
+        h1 {
+            font-weight: normal;
+            line-height: 1;
+            font-size: 1.5em;
+        }
+
     </style>
 
 </head>
+
 
 <body>
 
     <!-- Include the SVG -->
     <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
 
-        <symbol id="i-threshold" viewBox="0 0 32 32">
+        <symbol id="logo-threshold" viewBox="0 0 32 32">
             <path d="M2 23 L30 30 2 30 2 2 9 30 M23 30 L2 16 M16 30 L2 9" />
+        </symbol>
+
+        <symbol id="logo-bare" viewBox="0 0 22 16">
+            <path stroke-width="4%" d="M2 4 C2 4 5 0 8 3" />
+            <path stroke-width="4%" d="M20 4 C20 4 17 0 14 3" />
+            <path stroke-width="4%" stroke-width="0" fill="currentColor" d="M11 14 C8 14 6 10 11 10 16 10 14 14 11 14 M11 14 L11 16 M9 16 C10 17 12 17 13 16" />
+            <circle stroke-width="0" fill="currentColor" cx="9" cy="8" r="1" />
+            <circle stroke-width="0" fill="currentColor" cx="13" cy="8" r="1" />
         </symbol>
 
         <symbol id="i-search" viewBox="0 0 32 32">
@@ -378,8 +395,14 @@
 
           
     <!-- Use xlink the icons -->
+
+    <div class="header">
+        <svg class="logo" style="width: 100px; height: 100px;"><use xlink:href="#logo-threshold" stroke-width="3%" /></svg>
+        <h1>Threshold Icons</h1>
+        <span>A tiny weight-controlled SVG iconset</span>
+    </div>
+
     <div class="i-large"><div>
-        <svg><use xlink:href="#i-threshold" /></svg>
         <svg><use xlink:href="#i-search" /></svg>
         <svg><use xlink:href="#i-close" /></svg>
         <svg><use xlink:href="#i-play" /></svg>

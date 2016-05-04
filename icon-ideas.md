@@ -2,6 +2,14 @@
 - Nimble Set
 - Timber Set
 - Limber Set
+- Gust Icons
+- Airflow Icons
+- Airfoil
+- Wing
+- Wind
+- Weightless
+- Envlope
+- Threshold
 
 ## Icons Ideas
 

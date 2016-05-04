@@ -40,6 +40,10 @@
     <!-- Include the SVG -->
     <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
 
+        <symbol id="i-threshold" viewBox="0 0 32 32">
+            <path d="M2 23 L30 30 2 30 2 2 9 30 M23 30 L2 16 M16 30 L2 9" />
+        </symbol>
+
         <symbol id="i-search" viewBox="0 0 32 32">
             <circle cx="14" cy="14" r="12" />
             <path d="M23 23 L30 30"  />
@@ -375,6 +379,7 @@
           
     <!-- Use xlink the icons -->
     <div class="i-large"><div>
+        <svg><use xlink:href="#i-threshold" /></svg>
         <svg><use xlink:href="#i-search" /></svg>
         <svg><use xlink:href="#i-close" /></svg>
         <svg><use xlink:href="#i-play" /></svg>

@@ -16,6 +16,11 @@
 - Calcicons
 - Coordicons
 - Adjusticons
+- Specificons
+- Nano Icons
+- Bit Icons
+- Bitesize Icons
+- Bytesize Icons
 
 ## Icons Ideas
 

@@ -1,28 +1,4 @@
-## Name Ideas
-- Nimble Set
-- Timber Set
-- Limber Set
-- Gust Icons
-- Airflow Icons
-- Airfoil
-- Wing
-- Wind
-- Weightless
-- Envlope
-- Threshold
-- Bare
-- Inflexicons
-- Flexicons
-- Calcicons
-- Coordicons
-- Adjusticons
-- Specificons
-- Nano Icons
-- Bit Icons
-- Bitesize Icons
-- Bytesize Icons
-
-## Icons Ideas
+## Icons
 
 * [x] Search
 * [x] Close

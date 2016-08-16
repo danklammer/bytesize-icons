@@ -1,7 +1,7 @@
 # Bytesize Icons
 ###A tiny style-controlled SVG iconset
 
-All icons measure in at 9KB minified (2KB in SVGZ). Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square. [See demo]("http://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin").
+All icons measure in at 9KB minified (2KB in SVGZ). Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square. [See demo](http://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin).
 
 ![Bytesize Icons](bytesize-icons.png "Bytesize Icons")
 

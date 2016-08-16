@@ -15,16 +15,19 @@ Either drop each icon inline directly in your page as-needed, or loaded them up 
 You can then easily change the weight of the icon by changing `stroke-width` attribute. You can also change the shape of the line caps and the line joins with `stroke-linecap` and `stroke-linejoin`. This will change the style of the icons by making them rounded or squared off.
 
 
-#### Recommended Styles
+### Recommended Styles
+
+![Bytesize Styles](bytesize-styles.png "Bytesize Styles")
 
 Style  | stroke-linejoin | stroke-linecap
 -------|-----------------|----------------
 Round  | round           | round
-Square | miter           | butt
-Folded | bevel           | butt
+Bevel  | bevel           | butt
+Miter  | miter           | butt
 
+### Recommended Weights
 
-#### Recommended Weights
+![Bytesize Weights](bytesize-weights.png "Bytesize Weights")
 
 Weight        | stroke-width (px) | stroke-width (%) 
 --------------|-------------------|----------------
@@ -37,7 +40,7 @@ Bold          | 3px               | 9.375%
 Heavy         | 3.5px             | 10.9375%
 
 
-#### Limitations
+### Limitations
 
 Since there is a 2px margin between the paths and `viewBox`, I recommend not having a `stroke-width` larger than **4px** (or **12.5%**). 4px might seems small but it's relative to the 32x32 grid.
 

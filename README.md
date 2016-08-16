@@ -53,7 +53,7 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 Raw     | Minified | SVGZ
 
 
-## Grab-n-Go icons
+## Grab-n-Go
 
 **Search**
 

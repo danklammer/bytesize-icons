@@ -26,7 +26,7 @@ Folded | bevel           | butt
 
 #### Recommended Weights
 
-Width         | stroke-width (px) | stroke-width (%) 
+Weight        | stroke-width (px) | stroke-width (%) 
 --------------|-------------------|----------------
 Ultra Light   | 0.5px             | 1.5625%
 Thin          | 1px               | 3.125%

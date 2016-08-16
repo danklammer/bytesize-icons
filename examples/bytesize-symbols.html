@@ -1,14 +1,15 @@
 <html>
 <head>
 
-    <title>Bitesize Icons</title>
+    <title>Bytesize Icons - SVG Symbol</title>
 
     <style>
 
         body {
             color: #3f414e;
-            font-family: Menlo, Consolas, Monaco, monospace;
+            font-family: "Avenir Next", Avenir, Segoe UI, "Helvetica Neue", helvetica, sans-serif;
             text-align: center;
+            padding: 3em 0;
         }
 
         .i {
@@ -26,40 +27,35 @@
             overflow: visible;
         }
 
-        div { margin: 2.5em }
+        div { margin: 1em }
 
         .i-large div { font-size: 4em; margin: 0 }
         .i-medium div { font-size: 2em; margin: 0 }
         .i-small div { font-size: 1.5em; margin: 0 }
-        .i-tiny div { font-size: 1em; margin: 0 }
 
         .i-large,
         .i-medium,
-        .i-small,
-        .i-tiny { max-width: 1200px; margin: 0 auto 2em }
-
-        .logo {
-            width: 4em;
-            height: 4em;
-        }
+        .i-small { max-width: 50em; margin: 0 auto 2em }
 
         h1 {
             font-weight: normal;
             line-height: 1;
-            font-size: 1.5em;
+            font-size: 2em;
         }
 
         h3 {
             font-size: 1em;
             margin: 0 0 2em;
+            font-weight: 600;
         }
 
-        p {
-            line-height: 2em;
-            margin: .5em auto;
+        hr {
+            border: 0 solid transparent;
+            border-bottom: 5px solid #ddd;
+            height: 0;
+            max-width: 48em;
+            margin: 4em auto;
         }
-
-
 
     </style>
 
@@ -70,24 +66,6 @@
 
     <!-- Include the SVG -->
     <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
-
-        <symbol id="logo-threshold" viewBox="0 0 32 32">
-            <path d="M2 23 L30 30 2 30 2 2 9 30 M23 30 L2 16 M16 30 L2 9" />
-        </symbol>
-
-        <symbol id="logo-candybar" viewBox="0 0 32 32">
-            <path d="M11 13 L11 2 15 2 16 4 18 4 19 6 21 6 22 7 22 13 M15 25 L23 25 25 30 22 29 21 30 19 29 17 30 15 29 13 30 11 29 8 30 10 25 10 16 8 12 14 15 18 13 25 13 23 17 23 25" />
-        </symbol>
-
-        <symbol id="logo-candy" viewBox="0 0 32 32">
-            <path d="M8 11 L8 21 10 23 22 23 24 21 24 11 22 9 10 9 Z M12 13 L2 22 3 16 2 10 12 19 M20 13 L30 22 29 16 30 10 20 19" />
-        </symbol>
-
-        <symbol id="logo-donut" viewBox="0 0 32 32">
-            <ellipse cx="16" cy="16" rx="14" ry="12" />
-            <ellipse cx="16" cy="14" rx="5" ry="3" />
-            <path d="M4 10 C1 14 6 24 11 22 16 20 20 25 23 21 26 17 32 17 28 10" />
-        </symbol>
 
         <symbol id="i-search" viewBox="0 0 32 32">
             <circle cx="14" cy="14" r="12" />
@@ -426,260 +404,107 @@
     </svg>
 
           
-    <!-- Use xlink the icons -->
-
     <div class="header">
-        <svg class="logo i"><use xlink:href="#logo-candybar" /></svg>
-        <h1>Bitesize Icons</h1>
+        <h1>Bytesize Icons</h1>
         <h3>A tiny style-controlled SVG iconset</h3>
-        <p style="max-width: 515px; text-align: justify;">All icons measure in at 9KB minified (2KB in SVGZ). Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square.</p>
+    </div>
+
+    <hr />
+
+    <div class="i-large">
+
+        <h4>SVG Symbol - 64px</h4>
+
+        <div>
+        <svg class="i"><use xlink:href="#i-search" /></svg>
+        <svg class="i"><use xlink:href="#i-close" /></svg>
+        <svg class="i"><use xlink:href="#i-play" /></svg>
+        <svg class="i"><use xlink:href="#i-pause" /></svg>
+        <svg class="i"><use xlink:href="#i-backwards" /></svg>
+        <svg class="i"><use xlink:href="#i-forwards" /></svg>
+        <svg class="i"><use xlink:href="#i-star" /></svg>
+        <svg class="i"><use xlink:href="#i-checkmark" /></svg>
+        <svg class="i"><use xlink:href="#i-chevron-top" /></svg>
+        <svg class="i"><use xlink:href="#i-chevron-right" /></svg>
+        <svg class="i"><use xlink:href="#i-chevron-bottom" /></svg>
+        <svg class="i"><use xlink:href="#i-chevron-left" /></svg>
+        <svg class="i"><use xlink:href="#i-arrow-top" /></svg>
+        <svg class="i"><use xlink:href="#i-arrow-right" /></svg>
+        <svg class="i"><use xlink:href="#i-arrow-bottom" /></svg>
+        <svg class="i"><use xlink:href="#i-arrow-left" /></svg>
+        <svg class="i"><use xlink:href="#i-caret-top" /></svg>
+        <svg class="i"><use xlink:href="#i-caret-right" /></svg>
+        <svg class="i"><use xlink:href="#i-caret-bottom" /></svg>
+        <svg class="i"><use xlink:href="#i-caret-left" /></svg>
+        <svg class="i"><use xlink:href="#i-start" /></svg>
+        <svg class="i"><use xlink:href="#i-end" /></svg>
+        <svg class="i"><use xlink:href="#i-eject" /></svg>
+        <svg class="i"><use xlink:href="#i-mute" /></svg>
+        <svg class="i"><use xlink:href="#i-volume" /></svg>
+        <svg class="i"><use xlink:href="#i-ban" /></svg>
+        <svg class="i"><use xlink:href="#i-flag" /></svg>
+        <svg class="i"><use xlink:href="#i-options" /></svg>
+        <svg class="i"><use xlink:href="#i-settings" /></svg>
+        <svg class="i"><use xlink:href="#i-heart" /></svg>
+        <svg class="i"><use xlink:href="#i-clock" /></svg>
+        <svg class="i"><use xlink:href="#i-menu" /></svg>
+        <svg class="i"><use xlink:href="#i-msg" /></svg>
+        <svg class="i"><use xlink:href="#i-photo" /></svg>
+        <svg class="i"><use xlink:href="#i-camera" /></svg>
+        <svg class="i"><use xlink:href="#i-video" /></svg>
+        <svg class="i"><use xlink:href="#i-music" /></svg>
+        <svg class="i"><use xlink:href="#i-mail" /></svg>
+        <svg class="i"><use xlink:href="#i-home" /></svg>
+        <svg class="i"><use xlink:href="#i-user" /></svg>
+        <svg class="i"><use xlink:href="#i-trash" /></svg>
+        <svg class="i"><use xlink:href="#i-paperclip" /></svg>
+        <svg class="i"><use xlink:href="#i-file" /></svg>
+        <svg class="i"><use xlink:href="#i-folder" /></svg>
+        <svg class="i"><use xlink:href="#i-folder-open" /></svg>
+        <svg class="i"><use xlink:href="#i-work" /></svg>
+        <svg class="i"><use xlink:href="#i-work2" /></svg>
+        <svg class="i"><use xlink:href="#i-eye" /></svg>
+        <svg class="i"><use xlink:href="#i-bookmark" /></svg>
+        <svg class="i"><use xlink:href="#i-tag" /></svg>
+        <svg class="i"><use xlink:href="#i-lightning" /></svg>
+        <svg class="i"><use xlink:href="#i-location" /></svg>
+        <svg class="i"><use xlink:href="#i-activity" /></svg>
+        <svg class="i"><use xlink:href="#i-fire" /></svg>
+        <svg class="i"><use xlink:href="#i-export" /></svg>
+        <svg class="i"><use xlink:href="#i-import" /></svg>
+        <svg class="i"><use xlink:href="#i-inbox" /></svg>
+        <svg class="i"><use xlink:href="#i-archive" /></svg>
+        <svg class="i"><use xlink:href="#i-reply" /></svg>
+        <svg class="i"><use xlink:href="#i-edit" /></svg>
+        <svg class="i"><use xlink:href="#i-compose" /></svg>
+        <svg class="i"><use xlink:href="#i-upload" /></svg>
+        <svg class="i"><use xlink:href="#i-download" /></svg>
+        <svg class="i"><use xlink:href="#i-link" /></svg>
+        <svg class="i"><use xlink:href="#i-code" /></svg>
+        <svg class="i"><use xlink:href="#i-lock" /></svg>
+        <svg class="i"><use xlink:href="#i-unlock" /></svg>
+        <svg class="i"><use xlink:href="#i-bell" /></svg>
+        <svg class="i"><use xlink:href="#i-alert" /></svg>
+        <svg class="i"><use xlink:href="#i-info" /></svg>
+        <svg class="i"><use xlink:href="#i-creditcard" /></svg>
+        <svg class="i"><use xlink:href="#i-cart" /></svg>
+        <svg class="i"><use xlink:href="#i-gift" /></svg>
+        <svg class="i"><use xlink:href="#i-external" /></svg>
+        <svg class="i"><use xlink:href="#i-ellipsis-horizontal" /></svg>
+        <svg class="i"><use xlink:href="#i-ellipsis-vertical" /></svg>
+        <svg class="i"><use xlink:href="#i-twitter" /></svg>
+        <svg class="i"><use xlink:href="#i-github" /></svg>
+        </div>
 
     </div>
 
-    <div class="i-large"><div>
-        <svg class="i"><use xlink:href="#i-search" /></svg>
-        <svg class="i"><use xlink:href="#i-close" /></svg>
-        <svg class="i"><use xlink:href="#i-play" /></svg>
-        <svg class="i"><use xlink:href="#i-pause" /></svg>
-        <svg class="i"><use xlink:href="#i-backwards" /></svg>
-        <svg class="i"><use xlink:href="#i-forwards" /></svg>
-        <svg class="i"><use xlink:href="#i-star" /></svg>
-        <svg class="i"><use xlink:href="#i-checkmark" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-top" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-right" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-left" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-top" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-right" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-left" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-top" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-right" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-left" /></svg>
-        <svg class="i"><use xlink:href="#i-start" /></svg>
-        <svg class="i"><use xlink:href="#i-end" /></svg>
-        <svg class="i"><use xlink:href="#i-eject" /></svg>
-        <svg class="i"><use xlink:href="#i-mute" /></svg>
-        <svg class="i"><use xlink:href="#i-volume" /></svg>
-        <svg class="i"><use xlink:href="#i-ban" /></svg>
-        <svg class="i"><use xlink:href="#i-flag" /></svg>
-        <svg class="i"><use xlink:href="#i-options" /></svg>
-        <svg class="i"><use xlink:href="#i-settings" /></svg>
-        <svg class="i"><use xlink:href="#i-heart" /></svg>
-        <svg class="i"><use xlink:href="#i-clock" /></svg>
-        <svg class="i"><use xlink:href="#i-menu" /></svg>
-        <svg class="i"><use xlink:href="#i-msg" /></svg>
-        <svg class="i"><use xlink:href="#i-photo" /></svg>
-        <svg class="i"><use xlink:href="#i-camera" /></svg>
-        <svg class="i"><use xlink:href="#i-video" /></svg>
-        <svg class="i"><use xlink:href="#i-music" /></svg>
-        <svg class="i"><use xlink:href="#i-mail" /></svg>
-        <svg class="i"><use xlink:href="#i-home" /></svg>
-        <svg class="i"><use xlink:href="#i-user" /></svg>
-        <svg class="i"><use xlink:href="#i-trash" /></svg>
-        <svg class="i"><use xlink:href="#i-paperclip" /></svg>
-        <svg class="i"><use xlink:href="#i-file" /></svg>
-        <svg class="i"><use xlink:href="#i-folder" /></svg>
-        <svg class="i"><use xlink:href="#i-folder-open" /></svg>
-        <svg class="i"><use xlink:href="#i-work" /></svg>
-        <svg class="i"><use xlink:href="#i-work2" /></svg>
-        <svg class="i"><use xlink:href="#i-eye" /></svg>
-        <svg class="i"><use xlink:href="#i-bookmark" /></svg>
-        <svg class="i"><use xlink:href="#i-tag" /></svg>
-        <svg class="i"><use xlink:href="#i-lightning" /></svg>
-        <svg class="i"><use xlink:href="#i-location" /></svg>
-        <svg class="i"><use xlink:href="#i-activity" /></svg>
-        <svg class="i"><use xlink:href="#i-fire" /></svg>
-        <svg class="i"><use xlink:href="#i-export" /></svg>
-        <svg class="i"><use xlink:href="#i-import" /></svg>
-        <svg class="i"><use xlink:href="#i-inbox" /></svg>
-        <svg class="i"><use xlink:href="#i-archive" /></svg>
-        <svg class="i"><use xlink:href="#i-reply" /></svg>
-        <svg class="i"><use xlink:href="#i-edit" /></svg>
-        <svg class="i"><use xlink:href="#i-compose" /></svg>
-        <svg class="i"><use xlink:href="#i-upload" /></svg>
-        <svg class="i"><use xlink:href="#i-download" /></svg>
-        <svg class="i"><use xlink:href="#i-link" /></svg>
-        <svg class="i"><use xlink:href="#i-code" /></svg>
-        <svg class="i"><use xlink:href="#i-lock" /></svg>
-        <svg class="i"><use xlink:href="#i-unlock" /></svg>
-        <svg class="i"><use xlink:href="#i-bell" /></svg>
-        <svg class="i"><use xlink:href="#i-alert" /></svg>
-        <svg class="i"><use xlink:href="#i-info" /></svg>
-        <svg class="i"><use xlink:href="#i-creditcard" /></svg>
-        <svg class="i"><use xlink:href="#i-cart" /></svg>
-        <svg class="i"><use xlink:href="#i-gift" /></svg>
-        <svg class="i"><use xlink:href="#i-external" /></svg>
-        <svg class="i"><use xlink:href="#i-ellipsis-horizontal" /></svg>
-        <svg class="i"><use xlink:href="#i-ellipsis-vertical" /></svg>
-        <svg class="i"><use xlink:href="#i-twitter" /></svg>
-        <svg class="i"><use xlink:href="#i-github" /></svg>
-    </div></div>
+    <hr />
 
-    <div class="i-medium"><div>
-        <svg class="i"><use xlink:href="#i-search" /></svg>
-        <svg class="i"><use xlink:href="#i-close" /></svg>
-        <svg class="i"><use xlink:href="#i-play" /></svg>
-        <svg class="i"><use xlink:href="#i-pause" /></svg>
-        <svg class="i"><use xlink:href="#i-backwards" /></svg>
-        <svg class="i"><use xlink:href="#i-forwards" /></svg>
-        <svg class="i"><use xlink:href="#i-star" /></svg>
-        <svg class="i"><use xlink:href="#i-checkmark" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-top" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-right" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-left" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-top" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-right" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-left" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-top" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-right" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-left" /></svg>
-        <svg class="i"><use xlink:href="#i-start" /></svg>
-        <svg class="i"><use xlink:href="#i-end" /></svg>
-        <svg class="i"><use xlink:href="#i-eject" /></svg>
-        <svg class="i"><use xlink:href="#i-mute" /></svg>
-        <svg class="i"><use xlink:href="#i-volume" /></svg>
-        <svg class="i"><use xlink:href="#i-ban" /></svg>
-        <svg class="i"><use xlink:href="#i-flag" /></svg>
-        <svg class="i"><use xlink:href="#i-options" /></svg>
-        <svg class="i"><use xlink:href="#i-settings" /></svg>
-        <svg class="i"><use xlink:href="#i-heart" /></svg>
-        <svg class="i"><use xlink:href="#i-clock" /></svg>
-        <svg class="i"><use xlink:href="#i-menu" /></svg>
-        <svg class="i"><use xlink:href="#i-msg" /></svg>
-        <svg class="i"><use xlink:href="#i-photo" /></svg>
-        <svg class="i"><use xlink:href="#i-camera" /></svg>
-        <svg class="i"><use xlink:href="#i-video" /></svg>
-        <svg class="i"><use xlink:href="#i-music" /></svg>
-        <svg class="i"><use xlink:href="#i-mail" /></svg>
-        <svg class="i"><use xlink:href="#i-home" /></svg>
-        <svg class="i"><use xlink:href="#i-user" /></svg>
-        <svg class="i"><use xlink:href="#i-trash" /></svg>
-        <svg class="i"><use xlink:href="#i-paperclip" /></svg>
-        <svg class="i"><use xlink:href="#i-file" /></svg>
-        <svg class="i"><use xlink:href="#i-folder" /></svg>
-        <svg class="i"><use xlink:href="#i-folder-open" /></svg>
-        <svg class="i"><use xlink:href="#i-work" /></svg>
-        <svg class="i"><use xlink:href="#i-work2" /></svg>
-        <svg class="i"><use xlink:href="#i-eye" /></svg>
-        <svg class="i"><use xlink:href="#i-bookmark" /></svg>
-        <svg class="i"><use xlink:href="#i-tag" /></svg>
-        <svg class="i"><use xlink:href="#i-lightning" /></svg>
-        <svg class="i"><use xlink:href="#i-activity" /></svg>
-        <svg class="i"><use xlink:href="#i-fire" /></svg>
-        <svg class="i"><use xlink:href="#i-location" /></svg>
-        <svg class="i"><use xlink:href="#i-export" /></svg>
-        <svg class="i"><use xlink:href="#i-import" /></svg>
-        <svg class="i"><use xlink:href="#i-inbox" /></svg>
-        <svg class="i"><use xlink:href="#i-archive" /></svg>
-        <svg class="i"><use xlink:href="#i-reply" /></svg>
-        <svg class="i"><use xlink:href="#i-edit" /></svg>
-        <svg class="i"><use xlink:href="#i-compose" /></svg>
-        <svg class="i"><use xlink:href="#i-upload" /></svg>
-        <svg class="i"><use xlink:href="#i-download" /></svg>
-        <svg class="i"><use xlink:href="#i-link" /></svg>
-        <svg class="i"><use xlink:href="#i-code" /></svg>
-        <svg class="i"><use xlink:href="#i-lock" /></svg>
-        <svg class="i"><use xlink:href="#i-unlock" /></svg>
-        <svg class="i"><use xlink:href="#i-bell" /></svg>
-        <svg class="i"><use xlink:href="#i-alert" /></svg>
-        <svg class="i"><use xlink:href="#i-info" /></svg>
-        <svg class="i"><use xlink:href="#i-creditcard" /></svg>
-        <svg class="i"><use xlink:href="#i-cart" /></svg>
-        <svg class="i"><use xlink:href="#i-gift" /></svg>
-        <svg class="i"><use xlink:href="#i-external" /></svg>
-        <svg class="i"><use xlink:href="#i-ellipsis-horizontal" /></svg>
-        <svg class="i"><use xlink:href="#i-ellipsis-vertical" /></svg>
-        <svg class="i"><use xlink:href="#i-twitter" /></svg>
-        <svg class="i"><use xlink:href="#i-github" /></svg>
-    </div></div>
+    <div class="i-medium">
 
-    <div class="i-small"><div>
-        <svg class="i"><use xlink:href="#i-search" /></svg>
-        <svg class="i"><use xlink:href="#i-close" /></svg>
-        <svg class="i"><use xlink:href="#i-play" /></svg>
-        <svg class="i"><use xlink:href="#i-pause" /></svg>
-        <svg class="i"><use xlink:href="#i-backwards" /></svg>
-        <svg class="i"><use xlink:href="#i-forwards" /></svg>
-        <svg class="i"><use xlink:href="#i-star" /></svg>
-        <svg class="i"><use xlink:href="#i-checkmark" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-top" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-right" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-chevron-left" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-top" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-right" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-arrow-left" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-top" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-right" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-bottom" /></svg>
-        <svg class="i"><use xlink:href="#i-caret-left" /></svg>
-        <svg class="i"><use xlink:href="#i-start" /></svg>
-        <svg class="i"><use xlink:href="#i-end" /></svg>
-        <svg class="i"><use xlink:href="#i-eject" /></svg>
-        <svg class="i"><use xlink:href="#i-mute" /></svg>
-        <svg class="i"><use xlink:href="#i-volume" /></svg>
-        <svg class="i"><use xlink:href="#i-ban" /></svg>
-        <svg class="i"><use xlink:href="#i-flag" /></svg>
-        <svg class="i"><use xlink:href="#i-options" /></svg>
-        <svg class="i"><use xlink:href="#i-settings" /></svg>
-        <svg class="i"><use xlink:href="#i-heart" /></svg>
-        <svg class="i"><use xlink:href="#i-clock" /></svg>
-        <svg class="i"><use xlink:href="#i-menu" /></svg>
-        <svg class="i"><use xlink:href="#i-msg" /></svg>
-        <svg class="i"><use xlink:href="#i-photo" /></svg>
-        <svg class="i"><use xlink:href="#i-camera" /></svg>
-        <svg class="i"><use xlink:href="#i-video" /></svg>
-        <svg class="i"><use xlink:href="#i-music" /></svg>
-        <svg class="i"><use xlink:href="#i-mail" /></svg>
-        <svg class="i"><use xlink:href="#i-home" /></svg>
-        <svg class="i"><use xlink:href="#i-user" /></svg>
-        <svg class="i"><use xlink:href="#i-trash" /></svg>
-        <svg class="i"><use xlink:href="#i-paperclip" /></svg>
-        <svg class="i"><use xlink:href="#i-file" /></svg>
-        <svg class="i"><use xlink:href="#i-folder" /></svg>
-        <svg class="i"><use xlink:href="#i-folder-open" /></svg>
-        <svg class="i"><use xlink:href="#i-work" /></svg>
-        <svg class="i"><use xlink:href="#i-work2" /></svg>
-        <svg class="i"><use xlink:href="#i-eye" /></svg>
-        <svg class="i"><use xlink:href="#i-bookmark" /></svg>
-        <svg class="i"><use xlink:href="#i-tag" /></svg>
-        <svg class="i"><use xlink:href="#i-lightning" /></svg>
-        <svg class="i"><use xlink:href="#i-activity" /></svg>
-        <svg class="i"><use xlink:href="#i-fire" /></svg>
-        <svg class="i"><use xlink:href="#i-location" /></svg>
-        <svg class="i"><use xlink:href="#i-export" /></svg>
-        <svg class="i"><use xlink:href="#i-import" /></svg>
-        <svg class="i"><use xlink:href="#i-inbox" /></svg>
-        <svg class="i"><use xlink:href="#i-archive" /></svg>
-        <svg class="i"><use xlink:href="#i-reply" /></svg>
-        <svg class="i"><use xlink:href="#i-edit" /></svg>
-        <svg class="i"><use xlink:href="#i-compose" /></svg>
-        <svg class="i"><use xlink:href="#i-upload" /></svg>
-        <svg class="i"><use xlink:href="#i-download" /></svg>
-        <svg class="i"><use xlink:href="#i-link" /></svg>
-        <svg class="i"><use xlink:href="#i-code" /></svg>
-        <svg class="i"><use xlink:href="#i-lock" /></svg>
-        <svg class="i"><use xlink:href="#i-unlock" /></svg>
-        <svg class="i"><use xlink:href="#i-bell" /></svg>
-        <svg class="i"><use xlink:href="#i-alert" /></svg>
-        <svg class="i"><use xlink:href="#i-info" /></svg>
-        <svg class="i"><use xlink:href="#i-creditcard" /></svg>
-        <svg class="i"><use xlink:href="#i-cart" /></svg>
-        <svg class="i"><use xlink:href="#i-gift" /></svg>
-        <svg class="i"><use xlink:href="#i-external" /></svg>
-        <svg class="i"><use xlink:href="#i-ellipsis-horizontal" /></svg>
-        <svg class="i"><use xlink:href="#i-ellipsis-vertical" /></svg>
-        <svg class="i"><use xlink:href="#i-twitter" /></svg>
-        <svg class="i"><use xlink:href="#i-github" /></svg>
-    </div></div>
+        <h4>SVG Symbol - 32px</h4>
 
-    <div class="i-tiny"><div>
+        <div>
         <svg class="i"><use xlink:href="#i-search" /></svg>
         <svg class="i"><use xlink:href="#i-close" /></svg>
         <svg class="i"><use xlink:href="#i-play" /></svg>
@@ -758,7 +583,98 @@
         <svg class="i"><use xlink:href="#i-ellipsis-vertical" /></svg>
         <svg class="i"><use xlink:href="#i-twitter" /></svg>
         <svg class="i"><use xlink:href="#i-github" /></svg>
-    </div></div>
+        </div>
+
+    </div>
+
+    <hr />
+
+    <div class="i-small">
+
+        <h4>SVG Symbol - 24px</h4>
+
+        <div>
+        <svg class="i"><use xlink:href="#i-search" /></svg>
+        <svg class="i"><use xlink:href="#i-close" /></svg>
+        <svg class="i"><use xlink:href="#i-play" /></svg>
+        <svg class="i"><use xlink:href="#i-pause" /></svg>
+        <svg class="i"><use xlink:href="#i-backwards" /></svg>
+        <svg class="i"><use xlink:href="#i-forwards" /></svg>
+        <svg class="i"><use xlink:href="#i-star" /></svg>
+        <svg class="i"><use xlink:href="#i-checkmark" /></svg>
+        <svg class="i"><use xlink:href="#i-chevron-top" /></svg>
+        <svg class="i"><use xlink:href="#i-chevron-right" /></svg>
+        <svg class="i"><use xlink:href="#i-chevron-bottom" /></svg>
+        <svg class="i"><use xlink:href="#i-chevron-left" /></svg>
+        <svg class="i"><use xlink:href="#i-arrow-top" /></svg>
+        <svg class="i"><use xlink:href="#i-arrow-right" /></svg>
+        <svg class="i"><use xlink:href="#i-arrow-bottom" /></svg>
+        <svg class="i"><use xlink:href="#i-arrow-left" /></svg>
+        <svg class="i"><use xlink:href="#i-caret-top" /></svg>
+        <svg class="i"><use xlink:href="#i-caret-right" /></svg>
+        <svg class="i"><use xlink:href="#i-caret-bottom" /></svg>
+        <svg class="i"><use xlink:href="#i-caret-left" /></svg>
+        <svg class="i"><use xlink:href="#i-start" /></svg>
+        <svg class="i"><use xlink:href="#i-end" /></svg>
+        <svg class="i"><use xlink:href="#i-eject" /></svg>
+        <svg class="i"><use xlink:href="#i-mute" /></svg>
+        <svg class="i"><use xlink:href="#i-volume" /></svg>
+        <svg class="i"><use xlink:href="#i-ban" /></svg>
+        <svg class="i"><use xlink:href="#i-flag" /></svg>
+        <svg class="i"><use xlink:href="#i-options" /></svg>
+        <svg class="i"><use xlink:href="#i-settings" /></svg>
+        <svg class="i"><use xlink:href="#i-heart" /></svg>
+        <svg class="i"><use xlink:href="#i-clock" /></svg>
+        <svg class="i"><use xlink:href="#i-menu" /></svg>
+        <svg class="i"><use xlink:href="#i-msg" /></svg>
+        <svg class="i"><use xlink:href="#i-photo" /></svg>
+        <svg class="i"><use xlink:href="#i-camera" /></svg>
+        <svg class="i"><use xlink:href="#i-video" /></svg>
+        <svg class="i"><use xlink:href="#i-music" /></svg>
+        <svg class="i"><use xlink:href="#i-mail" /></svg>
+        <svg class="i"><use xlink:href="#i-home" /></svg>
+        <svg class="i"><use xlink:href="#i-user" /></svg>
+        <svg class="i"><use xlink:href="#i-trash" /></svg>
+        <svg class="i"><use xlink:href="#i-paperclip" /></svg>
+        <svg class="i"><use xlink:href="#i-file" /></svg>
+        <svg class="i"><use xlink:href="#i-folder" /></svg>
+        <svg class="i"><use xlink:href="#i-folder-open" /></svg>
+        <svg class="i"><use xlink:href="#i-work" /></svg>
+        <svg class="i"><use xlink:href="#i-work2" /></svg>
+        <svg class="i"><use xlink:href="#i-eye" /></svg>
+        <svg class="i"><use xlink:href="#i-bookmark" /></svg>
+        <svg class="i"><use xlink:href="#i-tag" /></svg>
+        <svg class="i"><use xlink:href="#i-lightning" /></svg>
+        <svg class="i"><use xlink:href="#i-activity" /></svg>
+        <svg class="i"><use xlink:href="#i-fire" /></svg>
+        <svg class="i"><use xlink:href="#i-location" /></svg>
+        <svg class="i"><use xlink:href="#i-export" /></svg>
+        <svg class="i"><use xlink:href="#i-import" /></svg>
+        <svg class="i"><use xlink:href="#i-inbox" /></svg>
+        <svg class="i"><use xlink:href="#i-archive" /></svg>
+        <svg class="i"><use xlink:href="#i-reply" /></svg>
+        <svg class="i"><use xlink:href="#i-edit" /></svg>
+        <svg class="i"><use xlink:href="#i-compose" /></svg>
+        <svg class="i"><use xlink:href="#i-upload" /></svg>
+        <svg class="i"><use xlink:href="#i-download" /></svg>
+        <svg class="i"><use xlink:href="#i-link" /></svg>
+        <svg class="i"><use xlink:href="#i-code" /></svg>
+        <svg class="i"><use xlink:href="#i-lock" /></svg>
+        <svg class="i"><use xlink:href="#i-unlock" /></svg>
+        <svg class="i"><use xlink:href="#i-bell" /></svg>
+        <svg class="i"><use xlink:href="#i-alert" /></svg>
+        <svg class="i"><use xlink:href="#i-info" /></svg>
+        <svg class="i"><use xlink:href="#i-creditcard" /></svg>
+        <svg class="i"><use xlink:href="#i-cart" /></svg>
+        <svg class="i"><use xlink:href="#i-gift" /></svg>
+        <svg class="i"><use xlink:href="#i-external" /></svg>
+        <svg class="i"><use xlink:href="#i-ellipsis-horizontal" /></svg>
+        <svg class="i"><use xlink:href="#i-ellipsis-vertical" /></svg>
+        <svg class="i"><use xlink:href="#i-twitter" /></svg>
+        <svg class="i"><use xlink:href="#i-github" /></svg>
+        </div>
+
+    </div>
 
 </body>
 </html>

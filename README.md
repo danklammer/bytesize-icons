@@ -10,7 +10,7 @@ All 78 icons weight in at 9kb minified (2kb in SVGZ).
 
 ## Usage
 
-Either drop each icon inline directly in your page as-needed, or loaded them up via external `.svg` file and the `use` tag. ([You can learn more about using an external SVG reference.](https://css-tricks.com/svg-use-with-external-reference-take-2/)). You can then easily change the weight of the icon by changing `stroke-width` attribute.
+Either drop each icon inline directly in your page as-needed, or loaded them up via external `.svg` file and the `use` tag. ([Learn more about using an external SVG reference.](https://css-tricks.com/svg-use-with-external-reference-take-2/)). You can then easily change the weight of the icon by changing `stroke-width` attribute.
 
 You can also change the shape of the line caps and the line joins with `stroke-linecap` and `stroke-linejoin`. This will change the style of the icons by making them rounded or squared off.
 
@@ -41,7 +41,7 @@ Heavy         | 3.5px             | 10.9375%
 
 Since there is a 2px margin between the paths and `viewBox`, I recommend not having a `stroke-width` larger than **4px** (or **12.5%**). 4px might seems small but it's relative to the 32x32 grid.
 
-make sure you use `stroke-width` in increments of **0.5px** or **1.5625%**, along with size (height/width) increments of **24px**, **32px**, **48px**, **64px**. This allows for optimal pixel-hinting.
+Make sure you use `stroke-width` in increments of **0.5px** or **1.5625%**, along with size (height/width) increments of **24px**, **32px**, **48px**, **64px**. This allows for optimal pixel-hinting.
 
 If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squared off style), I recommend using `overflow: visible` just in case the linecap edge falls just outside the `viewBox`. This prevents any of the points of the icon from getting cut off.
 

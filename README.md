@@ -42,9 +42,9 @@ Heavy         | 3.5px             | 10.9375%
 
 ### Examples
 
-[Inline SVG (64px, 32px, 24px)](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-inline.html)
-[SVG Symbols and the Use tag (64px, 32px, 24px)](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-symbols.html)
-[All Styles and Weights](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-styles.html)
+- [Inline SVG (64px, 32px, 24px)](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-inline.html)
+- [SVG Symbols and the Use tag (64px, 32px, 24px)](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-symbols.html)
+- [All Styles and Weights](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-styles.html)
 
 
 ### Limitations

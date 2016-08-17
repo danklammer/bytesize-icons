@@ -12,7 +12,7 @@ All 78 icons weigh in at 9kb minified (2kb in SVGZ).
 
 Either drop each icon inline directly in your page as-needed, or loaded them up via external `.svg` file and the `use` tag. ([Learn more about using an external SVG reference.](https://css-tricks.com/svg-use-with-external-reference-take-2/)).
 
-You can then easily change the weight of the icon by changing `stroke-width` attribute. You can also change the shape of the line caps and the line joins with `stroke-linecap` and `stroke-linejoin`. This will change the style of the icons by making them rounded or squared off.
+You can then easily change the weight of the icon by changing `stroke-width` attribute. You can also change the shape of the line caps and the line joins with `stroke-linecap` and `stroke-linejoin`. This will change the style of the icons by making them rounded or squared off. All these stroke properties are also available to use in CSS.
 
 
 ### Recommended Styles

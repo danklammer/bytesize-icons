@@ -51,7 +51,7 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 
 ## File Size
 
-12.1 KB | 8.8 KB   | 2.4 KB
+12.3 KB | 8.95 KB  | 2.5 KB
 --------|----------|-------
 Raw     | Minified | SVGZ
 

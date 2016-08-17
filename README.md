@@ -40,6 +40,13 @@ Bold          | 3px               | 9.375%
 Heavy         | 3.5px             | 10.9375%
 
 
+### Examples
+
+[Inline SVG (64px, 32px, 24px)](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-inline.html)
+[SVG Symbols and the Use tag (64px, 32px, 24px)](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-symbols.html)
+[All Styles and Weights](https://cdn.rawgit.com/danklammer/bytesize-icons/master/examples/bytesize-styles.html)
+
+
 ### Limitations
 
 Since there is a 2px margin between the paths and `viewBox`, I recommend not having a `stroke-width` larger than **4px** (or **12.5%**). 4px might seems small but it's relative to the 32x32 grid.

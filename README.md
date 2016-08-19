@@ -60,6 +60,9 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 
 - [Bytesize .iconjar Set](https://github.com/danklammer/bytesize-icons/blob/master/design/bytesize-iconjar.zip?raw=true)
 
+## Forks & Extensions
+- [Bytesize Icons as React Components](https://github.com/abdelhai/react-bytesize-icons) by [Mustafa Abdelhai](https://github.com/abdelhai/)
+
 ## File Size
 
 12.3 KB | 8.95 KB  | 2.5 KB

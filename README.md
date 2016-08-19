@@ -279,7 +279,7 @@ Raw     | Minified | SVGZ
 
 ---
 
-<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/caret-bottom.svg" width="24" height="24" /> | **Caret Left**
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/caret-left.svg" width="24" height="24" /> | **Caret Left**
 ---|---
 
 ```

@@ -69,7 +69,10 @@ Raw     | Minified | SVGZ
 
 ## Grab-n-Go
 
+
+---------
 ![Search Icon](img/search.png "Search Icon")
+
 **Search**
 
 ```
@@ -80,6 +83,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Close Icon](img/close.png "Close Icon")
+
 **Close**
 
 ```
@@ -89,6 +93,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Play Icon](img/play.png "Play Icon")
+
 **Play**
 
 ```
@@ -98,6 +103,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Pause Icon](img/pause.png "Pause Icon")
+
 **Pause**
 
 ```
@@ -107,6 +113,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Backwards Icon](img/backwards.png "Backwards Icon")
+
 **Backwards**
 
 ```
@@ -116,6 +123,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Forwards Icon](img/forwards.png "Forwards Icon")
+
 **Forwards**
 
 ```
@@ -125,6 +133,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Star Icon](img/star.png "Star Icon")
+
 **Star**
 
 ```
@@ -134,6 +143,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Checkmark Icon](img/checkmark.png "Checkmark Icon")
+
 **Checkmark**
 
 ```
@@ -143,6 +153,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Chevron Top Icon](img/chevron-top.png "Chevron Top Icon")
+
 **Chevron Top**
 
 ```
@@ -152,6 +163,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Chevron Right Icon](img/chevron-right.png "Chevron Right Icon")
+
 **Chevron Right**
 
 ```
@@ -161,6 +173,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Chevron Bottom Icon](img/chevron-bottom.png "Chevron Bottom Icon")
+
 **Chevron Bottom**
 
 ```
@@ -170,6 +183,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Chevron Left Icon](img/chevron-left.png "Chevron Left Icon")
+
 **Chevron Left**
 
 ```
@@ -179,6 +193,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Arrow Top Icon](img/arrow-top.png "Arrow Top Icon")
+
 **Arrow Top**
 
 ```
@@ -188,6 +203,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Arrow Right Icon](img/arrow-right.png "Arrow Right Icon")
+
 **Arrow Right**
 
 ```
@@ -197,6 +213,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Arrow Bottom Icon](img/arrow-bottom.png "Arrow Bottom Icon")
+
 **Arrow Bottom**
 
 ```
@@ -206,6 +223,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Arrow Left Icon](img/arrow-left.png "Arrow Left Icon")
+
 **Arrow Left**
 
 ```
@@ -215,6 +233,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Caret Top Icon](img/caret-top.png "Caret Top Icon")
+
 **Caret Top**
 
 ```
@@ -224,6 +243,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Caret Right Icon](img/caret-right.png "Caret Right Icon")
+
 **Caret Right**
 
 ```
@@ -233,6 +253,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Caret Bottom Icon](img/caret-bottom.png "Caret Bottom Icon")
+
 **Caret Bottom**
 
 ```
@@ -242,6 +263,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Caret Left Icon](img/caret-left.png "Caret Left Icon")
+
 **Caret Left**
 
 ```
@@ -251,6 +273,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Start Icon](img/start.png "Start Icon")
+
 **Start**
 
 ```
@@ -260,6 +283,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![End Icon](img/end.png "End Icon")
+
 **End**
 
 ```
@@ -269,6 +293,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Eject Icon](img/eject.png "Eject Icon")
+
 **Eject**
 
 ```
@@ -278,6 +303,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Mute Icon](img/mute.png "Mute Icon")
+
 **Mute**
 
 ```
@@ -287,6 +313,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Volume Icon](img/volume.png "Volume Icon")
+
 **Volume**
 
 ```
@@ -296,6 +323,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Ban Icon](img/ban.png "Ban Icon")
+
 **Ban**
 
 ```
@@ -306,6 +334,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Flag Icon](img/flag.png "Flag Icon")
+
 **Flag**
 
 ```
@@ -315,6 +344,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Options Icon](img/options.png "Options Icon")
+
 **Options**
 
 ```
@@ -324,6 +354,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Settings Icon](img/settings.png "Settings Icon")
+
 **Settings**
 
 ```
@@ -334,6 +365,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Heart Icon](img/heart.png "Heart Icon")
+
 **Heart**
 
 ```
@@ -343,6 +375,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Clock Icon](img/clock.png "Clock Icon")
+
 **Clock**
 
 ```
@@ -353,6 +386,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Menu Icon](img/menu.png "Menu Icon")
+
 **Menu**
 
 ```
@@ -362,6 +396,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Message Icon](img/message.png "Message Icon")
+
 **Message**
 
 ```
@@ -371,6 +406,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Photo Icon](img/photo.png "Photo Icon")
+
 **Photo**
 
 ```
@@ -381,6 +417,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Camera Icon](img/camera.png "Camera Icon")
+
 **Camera**
 
 ```
@@ -391,6 +428,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Video Icon](img/video.png "Video Icon")
+
 **Video**
 
 ```
@@ -400,6 +438,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Music Icon](img/music.png "Music Icon")
+
 **Music**
 
 ```
@@ -411,6 +450,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Mail Icon](img/mail.png "Mail Icon")
+
 **Mail**
 
 ```
@@ -420,6 +460,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Home Icon](img/home.png "Home Icon")
+
 **Home**
 
 ```
@@ -429,6 +470,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![User Icon](img/user.png "User Icon")
+
 **User**
 
 ```
@@ -438,6 +480,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Trash Icon](img/trash.png "Trash Icon")
+
 **Trash**
 
 ```
@@ -447,6 +490,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Paperclip Icon](img/paperclip.png "Paperclip Icon")
+
 **Paperclip**
 
 ```
@@ -456,6 +500,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![File Icon](img/file.png "File Icon")
+
 **File**
 
 ```
@@ -465,6 +510,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Folder Icon](img/folder.png "Folder Icon")
+
 **Folder**
 
 ```
@@ -474,6 +520,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Folder Open Icon](img/folder-open.png "Folder Open Icon")
+
 **Folder Open**
 
 ```
@@ -483,6 +530,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Work Icon](img/work.png "Work Icon")
+
 **Work**
 
 ```
@@ -492,6 +540,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Portfolio Icon](img/portfolio.png "Portfolio Icon")
+
 **Portfolio**
 
 
@@ -502,6 +551,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Eye Icon](img/eye.png "Eye Icon")
+
 **Eye**
 
 ```
@@ -513,6 +563,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Bookmark Icon](img/bookmark.png "Bookmark Icon")
+
 **Bookmark**
 
 ```
@@ -522,6 +573,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Tag Icon](img/tag.png "Tag Icon")
+
 **Tag**
 
 ```
@@ -532,6 +584,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Lightning Icon](img/lightning.png "Lightning Icon")
+
 **Lightning**
 
 ```
@@ -541,6 +594,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Activity Icon](img/activity.png "Activity Icon")
+
 **Activity**
 
 ```
@@ -550,6 +604,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Fire Icon](img/fire.png "Fire Icon")
+
 **Fire**
 
 ```
@@ -559,6 +614,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Location Icon](img/location.png "Location Icon")
+
 **Location**
 
 ```
@@ -569,6 +625,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Export Icon](img/export.png "Export Icon")
+
 **Export**
 
 ```
@@ -578,6 +635,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Import Icon](img/import.png "Import Icon")
+
 **Import**
 
 ```
@@ -587,6 +645,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Inbox Icon](img/inbox.png "Inbox Icon")
+
 **Inbox**
 
 ```
@@ -596,6 +655,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Archive Icon](img/archive.png "Archive Icon")
+
 **Archive**
 
 ```
@@ -605,6 +665,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Reply Icon](img/reply.png "Reply Icon")
+
 **Reply**
 
 ```
@@ -614,6 +675,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Edit Icon](img/edit.png "Edit Icon")
+
 **Edit**
 ```
 <svg id="i-edit" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
@@ -622,6 +684,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Compose Icon](img/compose.png "Compose Icon")
+
 **Compose**
 
 ```
@@ -631,6 +694,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Upload Icon](img/upload.png "Upload Icon")
+
 **Upload**
 
 ```
@@ -640,6 +704,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Download Icon](img/download.png "Download Icon")
+
 **Download**
 
 ```
@@ -649,6 +714,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Link Icon](img/link.png "Link Icon")
+
 **Link**
 
 ```
@@ -658,6 +724,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Code Icon](img/code.png "Code Icon")
+
 **Code**
 
 ```
@@ -667,6 +734,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Lock Icon](img/lock.png "Lock Icon")
+
 **Lock**
 
 ```
@@ -677,6 +745,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Unlock Icon](img/unlock.png "Unlock Icon")
+
 **Unlock**
 
 ```
@@ -687,6 +756,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Bell Icon](img/bell.png "Bell Icon")
+
 **Bell**
 
 ```
@@ -696,6 +766,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Alert Icon](img/alert.png "Alert Icon")
+
 **Alert**
 
 ```
@@ -705,6 +776,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Info Icon](img/info.png "Info Icon")
+
 **Info**
 
 ```
@@ -715,6 +787,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Credit Card Icon](img/credit-card.png "Credit Card Icon")
+
 **Credit Card**
 
 ```
@@ -725,6 +798,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Cart Icon](img/cart.png "Cart Icon")
+
 **Cart**
 
 ```
@@ -736,6 +810,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Gift Icon](img/gift.png "Gift Icon")
+
 **Gift**
 
 ```
@@ -745,6 +820,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![External Icon](img/external.png "External Icon")
+
 **External**
 
 ```
@@ -754,6 +830,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Reload Icon](img/reload.png "Reload Icon")
+
 **Reload**
 
 ```
@@ -763,6 +840,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Horizontal Ellipsis Icon](img/horizontal-ellipsis.png "Horizontal Ellipsis Icon")
+
 **Horizontal Ellipsis**
 
 ```
@@ -774,6 +852,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Vertical Ellipsis Icon](img/vertical-ellipsis.png "Vertical Ellipsis Icon")
+
 **Vertical Ellipsis**
 
 ```
@@ -785,6 +864,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Twitter Icon](img/twitter.png "Twitter Icon")
+
 **Twitter**
 
 ```
@@ -794,6 +874,7 @@ Raw     | Minified | SVGZ
 ```
 
 ![Github Icon](img/github.png "Github Icon")
+
 **GitHub**
 
 ```

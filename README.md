@@ -97,6 +97,30 @@ Raw     | Minified | SVGZ
 
 ---
 
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/plus.svg" width="24" height="24" /> | **Plus**
+---|---
+
+
+```html
+<svg id="i-plus" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+    <path d="M16 2 L16 30 M2 16 L30 16" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/minus.svg" width="24" height="24" /> | **Minus**
+---|---
+
+
+```html
+<svg id="i-minus" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+    <path d="M2 16 L30 16" />
+</svg>
+```
+
+---
+
 <img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/play.svg" width="24" height="24" /> | **Play**
 ---|---
 
@@ -644,6 +668,42 @@ Raw     | Minified | SVGZ
 
 ---
 
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/book.svg" width="24" height="24" /> | **Book**
+---|---
+
+
+```html
+<svg id="i-book" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+    <path d="M16 7 C16 7 9 1 2 6 L2 28 C9 23 16 28 16 28 16 28 23 23 30 28 L30 6 C23 1 16 7 16 7 Z M16 7 L16 28" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/calendar.svg" width="24" height="24" /> | **Calendar**
+---|---
+
+
+```html
+<svg id="i-calendar" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+    <path d="M2 6 L2 30 30 30 30 6 Z M2 15 L30 15 M7 3 L7 9 M13 3 L13 9 M19 3 L19 9 M25 3 L25 9" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/print.svg" width="24" height="24" /> | **Print**
+---|---
+
+
+```html
+<svg id="i-print" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+    <path d="M7 25 L2 25 2 9 30 9 30 25 25 25 M7 19 L7 30 25 30 25 19 Z M25 9 L25 2 7 2 7 9 M22 14 L25 14" />
+</svg>
+```
+
+---
+
 <img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/eye.svg" width="24" height="24" /> | **Eye**
 ---|---
 
@@ -699,17 +759,6 @@ Raw     | Minified | SVGZ
 ```html
 <svg id="i-activity" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
     <path d="M4 16 L11 16 14 29 18 3 21 16 28 16" />
-</svg>
-```
-
----
-
-<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/fire.svg" width="24" height="24" /> | **Fire**
----|---
-
-```html
-<svg id="i-fire" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-    <path d="M15 30 C0 30 15 13 12 3 28 13 32 30 15 30 Z M17 30 C10 30 17 20 17 20 17 20 24 30 17 30 Z" />
 </svg>
 ```
 
@@ -826,6 +875,16 @@ Raw     | Minified | SVGZ
 
 ---
 
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/send.svg" width="24" height="24" /> | **Send**
+---|---
+
+```html
+<svg id="i-send" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+    <path d="M2 16 L30 2 16 30 12 20 Z M30 2 L12 20" />
+</svg>
+```
+
+---
 <img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/link.svg" width="24" height="24" /> | **Link**
 ---|---
 

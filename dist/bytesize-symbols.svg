@@ -9,6 +9,14 @@
         <path d="M2 30 L30 2 M30 30 L2 2" />
     </symbol>
 
+    <symbol id="i-plus" viewBox="0 0 32 32">
+        <path d="M16 2 L16 30 M2 16 L30 16" />
+    </symbol> 
+
+    <symbol id="i-minus" viewBox="0 0 32 32">
+        <path d="M2 16 L30 16" />
+    </symbol> 
+
     <symbol id="i-play" viewBox="0 0 32 32">
         <path d="M10 2 L10 30 24 16 Z" />
     </symbol>
@@ -219,10 +227,6 @@
         <path d="M4 16 L11 16 14 29 18 3 21 16 28 16" />
     </symbol>
 
-    <symbol id="i-fire" viewBox="0 0 32 32">
-        <path d="M15 30 C0 30 15 13 12 3 28 13 32 30 15 30 Z M17 30 C10 30 17 20 17 20 17 20 24 30 17 30 Z" />
-    </symbol>
-
     <symbol id="i-location" viewBox="0 0 32 32">
         <circle cx="16" cy="11" r="4" />
         <path d="M24 15 C21 22 16 30 16 30 16 30 11 22 8 15 5 8 10 2 16 2 22 2 27 8 24 15 Z" />
@@ -264,6 +268,10 @@
         <path d="M9 22 C0 23 1 12 9 13 6 2 23 2 22 10 32 7 32 23 23 22 M11 26 L16 30 21 26 M16 16 L16 30" />
     </symbol>
 
+    <symbol id="i-send" viewBox="0 0 32 32">
+        <path d="M2 16 L30 2 16 30 12 20 Z M30 2 L12 20" />
+    </symbol>
+
     <symbol id="i-link" viewBox="0 0 32 32">
         <path d="M18 8 C18 8 24 2 27 5 30 8 29 12 24 16 19 20 16 21 14 17 M14 24 C14 24 8 30 5 27 2 24 3 20 8 16 13 12 16 11 18 15" />
     </symbol>
@@ -284,6 +292,18 @@
 
     <symbol id="i-bell" viewBox="0 0 32 32">
         <path d="M8 17 C8 12 9 6 16 6 23 6 24 12 24 17 24 22 27 25 27 25 L5 25 C5 25 8 22 8 17 Z M20 25 C20 25 20 29 16 29 12 29 12 25 12 25 M16 3 L16 6" />
+    </symbol>
+
+    <symbol id="i-book" viewBox="0 0 32 32">
+        <path d="M16 7 C16 7 9 1 2 6 L2 28 C9 23 16 28 16 28 16 28 23 23 30 28 L30 6 C23 1 16 7 16 7 Z M16 7 L16 28" />
+    </symbol>
+
+    <symbol id="i-calendar" viewBox="0 0 32 32">
+        <path d="M2 6 L2 30 30 30 30 6 Z M2 15 L30 15 M7 3 L7 9 M13 3 L13 9 M19 3 L19 9 M25 3 L25 9" />
+    </symbol>
+
+    <symbol id="i-print" viewBox="0 0 32 32">
+        <path d="M7 25 L2 25 2 9 30 9 30 25 25 25 M7 19 L7 30 25 30 25 19 Z M25 9 L25 2 7 2 7 9 M22 14 L25 14" />
     </symbol>
 
     <symbol id="i-alert" viewBox="0 0 32 32">
@@ -307,7 +327,7 @@
     </symbol>
 
     <symbol id="i-gift" viewBox="0 0 32 32">
-        <path d="M4 14 L4 30 28 30 28 14 M2 9 L2 14 30 14 30 9 2 9 Z M16 9 C 16 9 14 0 8 3 2 6 16 9 16 9 16 9 18 0 24 3 30 6 16 9 16 9" />
+        <path d="M4 14 L4 30 28 30 28 14 M2 9 L2 14 30 14 30 9 Z M16 9 C 16 9 14 0 8 3 2 6 16 9 16 9 16 9 18 0 24 3 30 6 16 9 16 9 M16 9 L16 30" />
     </symbol>
 
     <symbol id="i-external" viewBox="0 0 32 32">

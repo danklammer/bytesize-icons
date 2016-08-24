@@ -1019,5 +1019,5 @@ MIT
 
 ### Attribution
 
-Bytesize Icons does not require attribution, but would be much appreciated.
+Bytesize Icons does not require attribution, but is encouraged. A link or mention anywhere in your project would be much appreciated.
 

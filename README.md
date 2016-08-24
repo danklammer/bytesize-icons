@@ -3,7 +3,7 @@
 
 Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square. [See demo](http://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin).
 
-All 85 icons weigh in at 9.4kb minified (2.6kb in SVGZ).
+All 84 icons weigh in at 9.4kb minified (2.6kb in SVGZ).
 
 ![Bytesize Icons](bytesize-icons.png "Bytesize Icons")
 

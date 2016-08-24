@@ -1012,6 +1012,12 @@ Raw     | Minified | SVGZ
 
 ---
 
+
 ## License
 MIT
+
+
+### Attribution
+
+Bytesize Icons does not require attribution, but would be much appreciated.
 

@@ -1,0 +1,23 @@
+{
+  "name": "bytesize-icons",
+  "version": "1.1.0",
+  "description": "A tiny style-controlled svg iconset",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danklammer/bytesize-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "iconset",
+    "line",
+    "icons"
+  ],
+  "author": "Dan Klammer <danklammer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danklammer/bytesize-icons/issues"
+  },
+  "homepage": "https://github.com/danklammer/bytesize-icons#readme"
+}
+

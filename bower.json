@@ -7,8 +7,6 @@
   ],
   "description": "A tiny style-controlled svg iconset",
   "main": [
-    "dist/icons/*",
-    "dist/bytesize-inline.svg",
     "dist/bytesize-symbols.svg"
   ],
   "ignore": [

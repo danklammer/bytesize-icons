@@ -63,6 +63,7 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 ## Forks & Extensions
 - [Bytesize Icons as React Components](https://github.com/abdelhai/react-bytesize-icons) by [Mustafa Abdelhai](https://github.com/abdelhai/)
 - [Yet Another Bytesize Icons as React Component](https://github.com/rhysd/react-component-bytesize-icons) by [@rhysd](https://github.com/rhysd)
+- [Bytesize Icons as Custom Elements](https://github.com/rhysd/bytesize-icon-elements) by [@rhysd](https://github.com/rhysd)
 
 ## File Size
 

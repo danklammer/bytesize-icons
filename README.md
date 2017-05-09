@@ -3,7 +3,7 @@
 
 Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square. [See demo](http://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin).
 
-All 84 icons weigh in at 9.4kb minified (2.6kb in SVGZ).
+All 91 icons weigh in at 10.5kb minified (2.9kb in SVGZ).
 
 ![Bytesize Icons](bytesize-icons.png "Bytesize Icons")
 
@@ -67,7 +67,7 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 
 ## File Size
 
-13 KB   | 9.4 KB   | 2.6 KB
+14.6 KB | 10.5 KB  | 2.9 KB
 --------|----------|-------
 Raw     | Minified | SVGZ
 
@@ -166,6 +166,18 @@ Raw     | Minified | SVGZ
 ```html
 <svg id="i-forwards" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
     <path d="M16 2 L30 16 16 30 16 16 2 30 2 2 16 16 Z" /> 
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/move.svg" width="24" height="24" /> | **Move**
+---|---
+
+
+```html
+<svg id="i-move" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M3 16 L29 16 M16 3 L16 29 M12 7 L16 3 20 7 M12 25 L16 29 20 25 M25 12 L29 16 25 20 M7 12 L3 16 7 20" />
 </svg>
 ```
 
@@ -1031,6 +1043,62 @@ Raw     | Minified | SVGZ
 ```html
 <svg id="i-reload" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
     <path d="M29 16 C29 22 24 29 16 29 8 29 3 22 3 16 3 10 8 3 16 3 21 3 25 6 27 9 M20 10 L27 9 28 2" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/clipboard.svg" width="24" height="24" /> | **Clipboard**
+---|---
+
+```html
+<svg id="i-clipboard" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M12 2 L12 6 20 6 20 2 12 2 Z M11 4 L6 4 6 30 26 30 26 4 21 4" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/microphone.svg" width="24" height="24" /> | **Microphone**
+---|---
+
+```html
+<svg id="i-microphone" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M16 2 C12 2 12 6 12 6 L12 16 C12 16 12 20 16 20 20 20 20 16 20 16 L20 6 C20 6 20 2 16 2 Z M8 17 C8 17 8 24 16 24 24 24 24 17 24 17 M13 29 L19 29 M16 24 L16 29" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/telephone.svg" width="24" height="24" /> | **Telephone**
+---|---
+
+```html
+<svg id="i-telephone" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M3 12 C3 5 10 5 16 5 22 5 29 5 29 12 29 20 22 11 22 11 L10 11 C10 11 3 20 3 12 Z M11 14 C11 14 6 19 6 28 L26 28 C26 19 21 14 21 14 L11 14 Z" />
+    <circle cx="16" cy="21" r="4" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/desktop.svg" width="24" height="24" /> | **Desktop**
+---|---
+
+```html
+<svg id="i-desktop" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M10 29 C10 29 10 24 16 24 22 24 22 29 22 29 L10 29 Z M2 6 L2 23 30 23 30 6 2 6 Z" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/mobile.svg" width="24" height="24" /> | **Mobile**
+---|---
+
+```html
+<svg id="i-mobile" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M21 2 L11 2 C10 2 9 3 9 4 L9 28 C9 29 10 30 11 30 L21 30 C22 30 23 29 23 28 L23 4 C23 3 22 2 21 2 Z M9 5 L23 5 M9 27 L23 27" />
 </svg>
 ```
 

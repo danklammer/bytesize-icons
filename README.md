@@ -992,6 +992,18 @@ Raw     | Minified | SVGZ
 
 ---
 
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/bag.svg" width="24" height="24" /> | **Bag**
+---|---
+
+```html
+<svg id="i-bag" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M10 9 C10 9 10 3 16 3 22 3 22 9 22 9" />
+    <path d="M5 9 L5 29 27 29 27 9 Z" />
+</svg>
+```
+
+---
+
 <img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/gift.svg" width="24" height="24" /> | **Gift**
 ---|---
 

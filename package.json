@@ -1,6 +1,6 @@
 {
   "name": "bytesize-icons",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A tiny style-controlled svg iconset",
   "repository": {
     "type": "git",
@@ -20,4 +20,3 @@
   },
   "homepage": "https://github.com/danklammer/bytesize-icons#readme"
 }
-

@@ -3,7 +3,7 @@
 
 Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square. [See demo](http://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin).
 
-All 92 icons weigh in at 10.5kb minified (2.9kb in SVGZ).
+All 94 icons weigh in at 10.7kb minified (2.9kb in SVGZ).
 
 ![Bytesize Icons](bytesize-icons.png "Bytesize Icons")
 
@@ -68,7 +68,7 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 
 ## File Size
 
-14.6 KB | 10.5 KB  | 2.9 KB
+14.9 KB | 10.7 KB  | 2.9 KB
 --------|----------|-------
 Raw     | Minified | SVGZ
 
@@ -594,6 +594,31 @@ Raw     | Minified | SVGZ
 ```html
 <svg id="i-user" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
     <path d="M22 11 C22 16 19 20 16 20 13 20 10 16 10 11 10 6 12 3 16 3 20 3 22 6 22 11 Z M4 30 L28 30 C28 21 22 20 16 20 10 20 4 21 4 30 Z" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/sign-in.svg" width="24" height="24" /> | **Sign-In**
+---|---
+
+
+```html
+<svg id="i-signin" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M3 16 L23 16 M15 8 L23 16 15 24 M21 4 L29 4 29 28 21 28" />
+</svg>
+
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/sign-out.svg" width="24" height="24" /> | **Sign-Out**
+---|---
+
+
+```html
+<svg id="i-signout" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M28 16 L8 16 M20 8 L28 16 20 24 M11 28 L3 28 3 4 11 4" />
 </svg>
 ```
 

@@ -11,11 +11,11 @@
 
     <symbol id="i-plus" viewBox="0 0 32 32">
         <path d="M16 2 L16 30 M2 16 L30 16" />
-    </symbol> 
+    </symbol>
 
     <symbol id="i-minus" viewBox="0 0 32 32">
         <path d="M2 16 L30 16" />
-    </symbol> 
+    </symbol>
 
     <symbol id="i-play" viewBox="0 0 32 32">
         <path d="M10 2 L10 30 24 16 Z" />
@@ -30,7 +30,7 @@
     </symbol>
 
     <symbol id="i-forwards" viewBox="0 0 32 32">
-        <path d="M16 2 L30 16 16 30 16 16 2 30 2 2 16 16 Z" /> 
+        <path d="M16 2 L30 16 16 30 16 16 2 30 2 2 16 16 Z" />
     </symbol>
 
     <symbol id="i-move" viewBox="0 0 32 32">
@@ -393,6 +393,10 @@
 
     <symbol id="i-github" viewBox="0 0 64 64">
         <path stroke-width="0" fill="currentColor" d="M32 0 C14 0 0 14 0 32 0 53 19 62 22 62 24 62 24 61 24 60 L24 55 C17 57 14 53 13 50 13 50 13 49 11 47 10 46 6 44 10 44 13 44 15 48 15 48 18 52 22 51 24 50 24 48 26 46 26 46 18 45 12 42 12 31 12 27 13 24 15 22 15 22 13 18 15 13 15 13 20 13 24 17 27 15 37 15 40 17 44 13 49 13 49 13 51 20 49 22 49 22 51 24 52 27 52 31 52 42 45 45 38 46 39 47 40 49 40 52 L40 60 C40 61 40 62 42 62 45 62 64 53 64 32 64 14 50 0 32 0 Z" />
+    </symbol>
+
+    <symbol id="i-stackoverflow" viewBox="0 0 64 64">
+        <path stroke-width="0" fill="currentColor" d="M7.1,39.2V59.5H53.2V39.2H48.3V54.5H12.2V39.2ZM43,49.2V44.2H17.5V49.2ZM43,42.7L43.9,37.8L19,32.7L18,37.5ZM44.4,36.3L46.5,31.8L23.5,21L21.4,25.5ZM47.5,30.4L50.5,26.7L30.9,10.4L27.9,14.1ZM51.7,25.4L55.6,22.6L40.4,2.1L36.6,5Z"/>
     </symbol>
 
 </svg>

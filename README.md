@@ -65,6 +65,7 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 - [Yet Another Bytesize Icons as React Component](https://github.com/rhysd/react-component-bytesize-icons) by [@rhysd](https://github.com/rhysd)
 - [Bytesize Icons as Custom Elements](https://github.com/rhysd/bytesize-icon-elements) by [@rhysd](https://github.com/rhysd)
 - [Bytesize Icons as Vue functional components](https://github.com/egoist/vue-bytesize-icons) by [@egoist](https://github.com/egoist)
+- [Bytesize Icons packaged as a Jinja2 macro](https://github.com/encukou/bytesize-to-jinja) by [@encukou](https://github.com/encukou)
 
 ## File Size
 

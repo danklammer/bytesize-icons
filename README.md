@@ -29,7 +29,7 @@ Miter  | miter           | butt
 
 ![Bytesize Weights](bytesize-weights.png "Bytesize Weights")
 
-Weight        | stroke-width (px) | stroke-width (%) 
+Weight        | stroke-width (px) | stroke-width (%)
 --------------|-------------------|----------------
 Ultra Light   | 0.5px             | 1.5625%
 Thin          | 1px               | 3.125%
@@ -167,7 +167,7 @@ Raw     | Minified | SVGZ
 
 ```html
 <svg id="i-forwards" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-    <path d="M16 2 L30 16 16 30 16 16 2 30 2 2 16 16 Z" /> 
+    <path d="M16 2 L30 16 16 30 16 16 2 30 2 2 16 16 Z" />
 </svg>
 ```
 
@@ -1179,6 +1179,17 @@ Raw     | Minified | SVGZ
 
 ---
 
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/stackoverflow.svg" width="24" height="24" /> | **Stackoverflow**
+---|---
+
+```html
+<svg id="i-stackoverflow" viewBox="0 0 64 64" width="32" height="32">
+    <path stroke-width="0" fill="currentColor" d="M7.1,39.2V59.5H53.2V39.2H48.3V54.5H12.2V39.2ZM43,49.2V44.2H17.5V49.2ZM43,42.7L43.9,37.8L19,32.7L18,37.5ZM44.4,36.3L46.5,31.8L23.5,21L21.4,25.5ZM47.5,30.4L50.5,26.7L30.9,10.4L27.9,14.1ZM51.7,25.4L55.6,22.6L40.4,2.1L36.6,5Z"/>
+</svg>
+```
+
+---
+
 
 ## License
 MIT
@@ -1187,4 +1198,3 @@ MIT
 ### Attribution
 
 Bytesize Icons does not require attribution, but is encouraged. A link or mention anywhere in your project would be much appreciated.
-

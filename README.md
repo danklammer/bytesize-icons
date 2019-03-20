@@ -213,7 +213,7 @@ Raw     | Minified | SVGZ
 
 ---
 
-<img src="https://raw.githack.com/prantlf/bytesize-icons/master/dist/icons/reset-zoom.svg" width="24" height="24" /> | **Zoom Out**
+<img src="https://raw.githack.com/prantlf/bytesize-icons/master/dist/icons/reset-zoom.svg" width="24" height="24" /> | **Reset Zoom**
 ---|---
 
 

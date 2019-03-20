@@ -185,6 +185,48 @@ Raw     | Minified | SVGZ
 
 ---
 
+<img src="https://raw.githack.com/prantlf/bytesize-icons/master/dist/icons/zoom-in.svg" width="24" height="24" /> | **Zoom In**
+---|---
+
+
+```html
+<svg id="i-zoom-in" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <circle cx="14" cy="14" r="12" />
+    <path d="M23 23 L30 30" />
+    <path d="M14 10 L14 18 M10 14 L18 14" />
+</svg>
+```
+
+---
+
+<img src="https://raw.githack.com/prantlf/bytesize-icons/master/dist/icons/zoom-out.svg" width="24" height="24" /> | **Zoom Out**
+---|---
+
+
+```html
+<svg id="i-zoom-out" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <circle cx="14" cy="14" r="12" />
+    <path d="M23 23 L30 30" />
+    <path d="M10 14 L18 14" />
+</svg>
+```
+
+---
+
+<img src="https://raw.githack.com/prantlf/bytesize-icons/master/dist/icons/reset-zoom.svg" width="24" height="24" /> | **Zoom Out**
+---|---
+
+
+```html
+<svg id="i-reset-zoom" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <circle cx="14" cy="14" r="12" />
+    <path d="M23 23 L30 30" />
+    <path d="M9 9 L19 9 19 19 9 19 Z" />
+</svg>
+```
+
+---
+
 <img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/star.svg" width="24" height="24" /> | **Star**
 ---|---
 

@@ -185,7 +185,7 @@ Raw     | Minified | SVGZ
 
 ---
 
-<img src="https://raw.githack.com/prantlf/bytesize-icons/master/dist/icons/zoom-in.svg" width="24" height="24" /> | **Zoom In**
+<img src="https://raw.githack.com/danklammer/bytesize-icons/master/dist/icons/zoom-in.svg" width="24" height="24" /> | **Zoom In**
 ---|---
 
 
@@ -199,7 +199,7 @@ Raw     | Minified | SVGZ
 
 ---
 
-<img src="https://raw.githack.com/prantlf/bytesize-icons/master/dist/icons/zoom-out.svg" width="24" height="24" /> | **Zoom Out**
+<img src="https://raw.githack.com/danklammer/bytesize-icons/master/dist/icons/zoom-out.svg" width="24" height="24" /> | **Zoom Out**
 ---|---
 
 
@@ -213,7 +213,7 @@ Raw     | Minified | SVGZ
 
 ---
 
-<img src="https://raw.githack.com/prantlf/bytesize-icons/master/dist/icons/zoom-reset.svg" width="24" height="24" /> | **Zoom Reset**
+<img src="https://raw.githack.com/danklammer/bytesize-icons/master/dist/icons/zoom-reset.svg" width="24" height="24" /> | **Zoom Reset**
 ---|---
 
 

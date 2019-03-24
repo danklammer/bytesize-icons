@@ -1175,7 +1175,7 @@ Raw     | Minified | SVGZ
 
 ---
 
-<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/moon.svg" width="24" height="24" /> | **Clipboard**
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/moon.svg" width="24" height="24" /> | **Moon**
 ---|---
 
 ```html

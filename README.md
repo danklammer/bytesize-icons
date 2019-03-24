@@ -3,7 +3,7 @@
 
 Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square. [See demo](http://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin).
 
-All 94 icons weigh in at 10.7kb minified (2.9kb in SVGZ).
+All 101 icons weigh in at 11.7kb minified (3.2kb in SVGZ).
 
 ![Bytesize Icons](bytesize-icons.png "Bytesize Icons")
 
@@ -69,7 +69,7 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 
 ## File Size
 
-14.9 KB | 10.7 KB  | 2.9 KB
+16.3 KB | 11.7 KB  | 3.2 KB
 --------|----------|-------
 Raw     | Minified | SVGZ
 
@@ -222,6 +222,30 @@ Raw     | Minified | SVGZ
     <circle cx="14" cy="14" r="12" />
     <path d="M23 23 L30 30" />
     <path d="M9 12 L9 9 12 9 M16 9 L19 9 19 12 M9 16 L9 19 12 19 M19 16 L19 19 16 19" />
+</svg>
+```
+
+---
+
+<img src="https://raw.githack.com/danklammer/bytesize-icons/master/dist/icons/fullscreen.svg" width="24" height="24" /> | **Fullscreen**
+---|---
+
+
+```html
+<svg id="i-fullscreen" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M4 12 L4 4 12 4 M20 4 L28 4 28 12 M4 20 L4 28 12 28 M28 20 L28 28 20 28" />
+</svg>
+```
+
+---
+
+<img src="https://raw.githack.com/danklammer/bytesize-icons/master/dist/icons/fullscreen-exit.svg" width="24" height="24" /> | **Fullscreen Exit**
+---|---
+
+
+```html
+<svg id="i-fullscreen-exit" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M4 12 L12 12 12 4 M20 4 L20 12 28 12 M4 20 L12 20 12 28 M28 20 L20 20 20 28" />
 </svg>
 ```
 
@@ -1123,6 +1147,40 @@ Raw     | Minified | SVGZ
 ```html
 <svg id="i-clipboard" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
     <path d="M12 2 L12 6 20 6 20 2 12 2 Z M11 4 L6 4 6 30 26 30 26 4 21 4" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/filter.svg" width="24" height="24" /> | **Filter**
+---|---
+
+```html
+<svg id="i-filter" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M2 5 C2 5 6 3 16 3 26 3 30 5 30 5 L19 18 19 27 13 30 13 18 2 5Z" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/feed.svg" width="24" height="24" /> | **Feed**
+---|---
+
+```html
+<svg id="i-feed" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <circle cx="6" cy="26" r="2" fill="currentColor" />
+    <path d="M4 15 C11 15 17 21 17 28 M4 6 C17 6 26 15 26 28" />
+</svg>
+```
+
+---
+
+<img src="https://cdn.rawgit.com/danklammer/bytesize-icons/master/dist/icons/moon.svg" width="24" height="24" /> | **Clipboard**
+---|---
+
+```html
+<svg id="i-moon" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M14 2C 9 2 3 7 3 15 3 23 9 29 17 29 25 29 30 23 30 18 19 25 7 13 14 2Z" />
 </svg>
 ```
 

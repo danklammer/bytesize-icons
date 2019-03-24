@@ -55,6 +55,14 @@
         <path d="M9 12 L9 9 12 9 M16 9 L19 9 19 12 M9 16 L9 19 12 19 M19 16 L19 19 16 19" />
     </symbol>
 
+    <symbol id="i-fullscreen" viewBox="0 0 32 32">
+        <path d="M4 12 L4 4 12 4 M20 4 L28 4 28 12 M4 20 L4 28 12 28 M28 20 L28 28 20 28" />
+    </symbol>
+
+    <symbol id="i-fullscreen-exit" viewBox="0 0 32 32">
+        <path d="M4 12 L12 12 12 4 M20 4 L20 12 28 12 M4 20 L12 20 12 28 M28 20 L20 20 20 28" />
+    </symbol>
+        
     <symbol id="i-star" viewBox="0 0 32 32">
         <path d="M16 2 L20 12 30 12 22 19 25 30 16 23 7 30 10 19 2 12 12 12 Z" />
     </symbol>
@@ -374,6 +382,19 @@
 
     <symbol id="i-clipboard" viewBox="0 0 32 32">
         <path d="M12 2 L12 6 20 6 20 2 12 2 Z M11 4 L6 4 6 30 26 30 26 4 21 4" />
+    </symbol>
+
+    <symbol id="i-filter" viewBox="0 0 32 32">
+        <path d="M2 5 C2 5 6 3 16 3 26 3 30 5 30 5 L19 18 19 27 13 30 13 18 2 5Z" />
+    </symbol>
+
+    <symbol id="i-feed" viewBox="0 0 32 32">
+        <circle cx="6" cy="26" r="2" fill="currentColor" />
+        <path d="M4 15 C11 15 17 21 17 28 M4 6 C17 6 26 15 26 28" />
+    </symbol>
+
+    <symbol id="i-moon" viewBox="0 0 32 32">
+        <path d="M14 2C 9 2 3 7 3 15 3 23 9 29 17 29 25 29 30 23 30 18 19 25 7 13 14 2Z" />
     </symbol>
 
     <symbol id="i-microphone" viewBox="0 0 32 32">

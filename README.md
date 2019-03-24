@@ -5,6 +5,8 @@ Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for max
 
 All 101 icons weigh in at 11.7kb minified (3.2kb in SVGZ).
 
+[Used](https://getbootstrap.com/) and [recommended](https://getbootstrap.com/docs/4.0/extend/icons/) by Bootstrap.
+
 ![Bytesize Icons](bytesize-icons.png "Bytesize Icons")
 
 
@@ -66,6 +68,8 @@ If you decide to use a larger `stroke-width` with `stroke-linejoin: miter` (Squa
 - [Bytesize Icons as Custom Elements](https://github.com/rhysd/bytesize-icon-elements) by [@rhysd](https://github.com/rhysd)
 - [Bytesize Icons as Vue functional components](https://github.com/egoist/vue-bytesize-icons) by [@egoist](https://github.com/egoist)
 - [Bytesize Icons packaged as a Jinja2 macro](https://github.com/encukou/bytesize-to-jinja) by [@encukou](https://github.com/encukou)
+- [Atom SVG Icons](https://github.com/idleberg/atom-svg-icons) by [@idleberg](https://github.com/idleberg)
+- [VSCode SVG Icons](https://github.com/idleberg/vscode-svg-icons) by [@idleberg](https://github.com/idleberg)
 
 ## File Size
 

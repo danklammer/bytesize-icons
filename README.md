@@ -1,11 +1,11 @@
 # Bytesize Icons
 ### A tiny style-controlled SVG iconset
 
-Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square. [See demo](http://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin).
+Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for maximum style flexibility; meaning you can adjust the weight, color, size, and if you want the edges to be round or square. [See demo](https://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin).
 
 All 101 icons weigh in at 11.7kb minified (3.2kb in SVGZ).
 
-[Used](https://getbootstrap.com/) and [recommended](https://getbootstrap.com/docs/4.0/extend/icons/) by Bootstrap.
+[Used](https://getbootstrap.com/) and [recommended](https://getbootstrap.com/docs/4.4/extend/icons/) by Bootstrap.
 
 ![Bytesize Icons](bytesize-icons.png "Bytesize Icons")
 
